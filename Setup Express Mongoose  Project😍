@@ -1,1 +1,2 @@
 https://dev.to/md_enayeturrahman_2560e3/how-to-set-up-eslint-and-prettier-1nk6
+to create eslint.config.mjs: npm init @eslint/config@latest
